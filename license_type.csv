@@ -1,0 +1,130 @@
+licenseCategory,licenseType,licensePrefix,businessOrIndividual,renewalCycle,year,renewalExpirationDate
+Accountancy,Certified Public Accountant,CPA,Individual,Two Year,Odd,30-Nov
+Accountancy,Public Accounting Firm,FRM,Business,Three Year,,31-Aug
+Acupuncture,Acupuncturist,ACU,Individual,Two Year,Odd,31-Dec
+Addictons Counselors,Certified Addiction Counselor I,ACA,Individual,Two Year,Odd,31-Aug
+Addictons Counselors,Certified Addiction Counselor II,ACB,Individual,Two Year,Odd,31-Aug
+Addictons Counselors,Certified Addiction Counselor III,ACC,Individual,Two Year,Odd,31-Aug
+Addictons Counselors,Licensed Addiction Counselor,ACD,Individual,Two Year,Odd,31-Aug
+"Architects, Engineers and Land Surveyors",Architect,ARC,Individual,Two Year,Odd,31-Oct
+"Architects, Engineers and Land Surveyors",Professional Engineer,PE,Individual,Two Year,Odd,31-Oct
+"Architects, Engineers and Land Surveyors",Professional Land Surveyor,PLS,Individual,Two Year,Odd,31-Oct
+Athletic Trainers,Athletic Trainers,AT,Individual,Two Year,Odd,30-Nov
+Audiologists,Audiologist,AUD,Individual,Two Year,Even,31-Mar
+Barber/Cosmetology,Barber,BAR,Individual,Two Year,Even,31-Mar
+Barber/Cosmetology,Cosmetologist (half renew each year),COS,Individual,Two Year,Odd and Even,30-Apr
+Barber/Cosmetology,Esthetician,COZ,Individual,Two Year,Even,31-Mar
+Barber/Cosmetology,Hair Stylist,HST,Individual,Two Year,Even,31-Mar
+Barber/Cosmetology,Nail Technician,MAN,Individual,Two Year,Even,31-Mar
+Barber/Cosmetology,Shop Registration,REG,Business,Two Year,Odd,30-Nov
+Boxing,Boxing Corner,COR,Individual,Annual,,30-Jun
+Boxing,Boxing Official,OFC,Individual,Annual,,30-Jun
+Boxing,Boxing Participant,PAR,Individual,Annual,,30-Jun
+Boxing,Boxing Promoter,PRO,Individual,Annual,,30-Jun
+Chiropractic,Chiropractor,CHR,Individual,Two Year,Odd,31-Oct
+Dental,Academic Dentist,AD,Individual,Two Year,Even,28-Feb
+Dental,Dental Hygienist,DH,Individual,Two Year,Even,28-Feb
+Dental,Dentist,DEN,Individual,Two Year,Even,28-Feb
+Electrical,Electrical Apprentice,APE,Individual,Do not renew,,
+Electrical,Electrical Contractor,EC,Business,Three Year,,30-Sep
+Electrical,Journeyman Electrician,JW,Individual,Three Year,,30-Sep
+Electrical,Master Electrician,ME,Individual,Three Year,,30-Sep
+Electrical,Residential Wireman,RW,Individual,Three Year,,30-Sep
+Funeral Home and Crematory,Crematory,CRM,Business,Annual,,30-Nov
+Funeral Home and Crematory,Funeral Home,FH,Business,Annual,,30-Nov
+Hearing Aid Providers,Hearing Aid Apprentice,HAAP,Individual,Two Year,Even,31-Mar
+Hearing Aid Providers,Hearing Aid Provider,HAD,Individual,Two Year,Even,31-Mar
+Landscape Architects,Landscape Architects,LA,Individual,Two Year,Odd,31-Jan
+Marriage & Family Therapists,Marriage and Family Therapist,MFT,Individual,Two Year,Odd,31-Aug
+Marriage & Family Therapists,Marriage and Family Therapist Candidate,MFTC,Individual,Do not renew,,
+Marriage & Family Therapists,Provisional Marriage and Family Therapist,MFP,Individual,Two Year,Odd,31-Aug
+Massage Therapists,Massage Therapist,MT,Individual,Two Year,Odd,31-Jan
+Medical,Anesthesiologist Assistants,ANT,Individual,Two Year,Even,31-Jan
+Medical,Foreign Teaching Physician,TDP,Individual,Do not renew,,
+Medical,Physician,DR,Individual,Two Year,Odd,30-Apr
+Medical,Physician Assistant,PA,Individual,Two Year,Even,31-Jan
+Medical,Physician Training License,TL,Individual,Three Year,Odd and Even,31-Aug
+Medical,Pro Bono Physician,DRP,Individual,Two Year,Odd,30-Apr
+Midwives,Direct Entry Midwife,MWR,Individual,Annual,,30-Nov
+Naturopathy,Naturopathic Doctor,ND,Individual,TBD,TBD,30-Jun
+Nursing,Certified Nurse Aide,NA,Individual,Two Year,Even,31-Jan
+Nursing,Certified Nurse Midwife - APN,APN CNM,Individual,Two Year,Odd and Even,30-Sep
+Nursing,Certified Nurse Midwife - RXN,RXN CNM,Individual,Two Year,Odd and Even,30-Sep
+Nursing,Certified Registered Nurse Anesthetist - APN,APN CRNA,Individual,Two Year,Odd and Even,30-Sep
+Nursing,Certified Registered Nurse Anesthetist - RXN,RXN CRNA,Individual,Two Year,Odd and Even,30-Sep
+Nursing,Clinical Nurse Specialist - APN,APN CNS,Individual,Two Year,Odd and Even,30-Sep
+Nursing,Clinical Nurse Specialist - RXN,RXN CNS,Individual,Two Year,Odd and Even,30-Sep
+Nursing,Compact Certified Nurse Midwife - C-APN,C-APN C-CNM,Individual,Two Year,Odd and Even,30-Sep
+Nursing,Compact Certified Nurse Midwife - C-RXN,C-RXN C-CNM,Individual,Two Year,Odd and Even,30-Sep
+Nursing,Compact Certified Registered Nurse Anesthetist - C-APN,C-APN C-CRNA,Individual,Two Year,Odd and Even,30-Sep
+Nursing,Compact Certified Registered Nurse Anesthetist - C-RXN,C-RXN C-CRNA,Individual,Two Year,Odd and Even,30-Sep
+Nursing,Compact Clinical Nurse Specialist - C-APN,C-APN C-CNS,Individual,Two Year,Odd and Even,30-Sep
+Nursing,Compact Clinical Nurse Specialist - C-RXN,C-RXN C-CNS,Individual,Two Year,Odd and Even,30-Sep
+Nursing,Compact Intravenous Certification,C-IV,Individual,Two Year,Even,31-Aug
+Nursing,Compact Nurse Practitioner - C-APN,C-APN C-NP,Individual,Two Year,Odd and Even,30-Sep
+Nursing,Compact Nurse Practitioner - C-RXN,C-RXN C-NP,Individual,Two Year,Odd and Even,30-Sep
+Nursing,Intravenous Certification,IV,Individual,Two Year,Even,31-Aug
+Nursing,Licensed Practical Nurse,PN,Individual,Two Year,Even,31-Aug
+Nursing,Medication Aide Authority,MAA,Individual,Two Year,Even,31-Jan
+Nursing,Nurse Practitioner - APN,APN NP,Individual,Two Year,Odd and Even,30-Sep
+Nursing,Nurse Practitioner - RXN,RXN NP,Individual,Two Year,Odd and Even,30-Sep
+Nursing,Psychiatric Technician - Developmentally Disabled,DD,Individual,Two Year,Odd,31-Mar
+Nursing,Psychiatric Technician - Mentally Ill,MI,Individual,Two Year,Odd,31-Mar
+Nursing,Registered Nurse (half renew each year),RN,Individual,Two Year,Odd and Even,30-Sep
+Nursing Home Administrators,Nursing Home Administrator,NHA,Individual,Annual,,28-Feb
+Nursing Home Administrators,Nursing Home Administrator - In Training,AIT,Individual,Do not renew,,
+Occupational Therapy,Occupational Therapist,OT,Individual,Two Year,Odd,31-Jan
+Occupational Therapy,Occupational Therapy Assistant,OTA,Individual,Two Year,Odd,31-Jan
+Optometric,Optometrist,OPT,Individual,Two Year,Odd,31-Mar
+Optometric,Optometrist Volunteer,OPV,Individual,Two Year,Odd,31-Mar
+Outfitters,Outfitter,OUT,Business,Annual,,31-Mar
+Passenger Tramway,Tramway Lift,TRM,Business,Annual,Relative Date,
+Pharmacy,Limited License,LTD,Business,Two Year,Even,31-Oct
+Pharmacy,Manufacturer,MFR,Business,Two Year,Even,31-Oct
+Pharmacy,Other Outlet,OO,Business,Two Year,Even,31-Oct
+Pharmacy,Pharmacist,PHA,Individual,Two Year,Odd,31-Oct
+Pharmacy,Pharmacist Intern,IN,Individual,Two Year,Odd,31-Oct
+Pharmacy,Prescription Drug Outlet- In-State,PDO,Business,Two Year,Even,31-Oct
+Pharmacy,Prescription Drug Outlet-Out-of-State,OSP,Business,Two Year,Even,31-Oct
+Pharmacy,Wholesaler In-State,WHI,Business,Two Year,Even,31-Oct
+Pharmacy,Wholesaler Out-of-State,WHO,Business,Two Year,Even,31-Oct
+Physical Therapy,Physical Therapist,PTL,Individual,Two Year,Even,31-Oct
+Physical Therapy,Physical Therapist Assistant,PTA,Individual,Two Year,Even,31-Oct
+Physical Therapy,Physical Therapy Provisional,PTLP,Individual,Do not renew,,
+Plumbers,Journeyman Plumber,JP,Individual,Two Year,Odd,31-Aug
+Plumbers,Master Plumber,MP,Individual,Two Year,Odd,31-Aug
+Plumbers,Plumbing Apprentice,AP,Individual,Do not renew,,
+Plumbers,Plumbing Contractor,PC,Business,Two Year,Odd,31-Aug
+Plumbers,Residential Plumber,RP,Individual,Two Year,Odd,31-Aug
+Plumbers,Water Conditioning Contractor,WC,Business,Two Year,Odd,28-Feb
+Plumbers,Water Conditioning Installer,WI,Individual,Two Year,Odd,28-Feb
+Plumbers,Water Conditioning Principal,WP,Individual,Two Year,Odd,28-Feb
+Podiatry,Podiatrist,POD,Individual,Annual,,31-Aug
+Podiatry,Podiatrist Training License,PDT,Individual,Do not renew,,
+Podiatry,Podiatrist Volunteer License,PDV,Individual,Annual,,31-Aug
+Private Investogators,Private Investigator 1,PI1,Individual,One Year,,31-May
+Private Investogators,Private Investigator 2,PI2,Individual,One Year,,31-May
+Professional Counselors,Licensed Professional Counselor,LPC,Individual,Two Year,Odd,31-Aug
+Professional Counselors,Licensed Professional Counselor Candidate,LPCC,Individual,Do not renew,,
+Professional Counselors,Provisional Licensed Professional Counselor,LPP,Individual,Two Year,Odd,31-Aug
+Psychologists,Licensed Psychologist,PSY,Individual,Two Year,Odd,31-Aug
+Psychologists,Licensed Psychologist Candidate,PSYC,Individual,Do not renew,,
+Psychologists,Provisional Psychologist,PSP,Individual,Two Year,Odd,31-Aug
+Respiratory Therapy,Respiratory Therapist,RTL,Individual,Two Year,Even,31-Aug
+Social Work,Licensed Clinical Social Worker,CSW,Individual,Two Year,Odd,31-Aug
+Social Work,Licensed Social Worker,LSW,Individual,Two Year,Odd,31-Aug
+Social Work,Provisional Social Worker,SWP,Individual,Two Year,Odd,31-Aug
+Speech Language Pathology,Provisional Speech Language Pathologist,PSLP,Individual,Do not renew,,
+Speech Language Pathology,Speech Language - Pathologist,SLP,Individual,Two Year,Even,30-Nov
+Surgical Assistant and Surgical Technologist,Surgical Assistant,SA,Individual,Annual,,31-Mar
+Surgical Assistant and Surgical Technologist,Surgical Technologist,ST,Individual,Annual,,31-Mar
+Registered Psychotherapist,Registered Psychotherapist,NLC,Individual,Two Year,Odd,31-Aug
+Veterinary,Academic Veterinarians,AV,Individual,Two Year,Even,31-Aug
+Veterinary,Veterinarian,VET,Individual,Two Year,Even,31-Oct
+Fantasy Contests,Fantasy Contest Operator License,FCOL,Business,Annual,,31-Jul
+Fantasy Contests,Fantasy Contest Operator Registration,FCOR,Business,Annual,,31-Jul
+Medical,Compact Physician,CDR,Individual,Two Year,Odd,30-May
+Medical,Compact Physician Home,CDRH,Individual,Two Year,Odd,30-May
+Tissue Banks,Nontransplant Tissue Bank,NTTB,Business,Annual,,30-Jun
+Pharmacy,Pharmacy Technician,PHAT,Individual,Two Year,Odd,31-Oct
+Pharmacy,Provisional Pharmacy Technician,PHATP,Individual,Do not renew,,
