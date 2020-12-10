@@ -1,4 +1,4 @@
-lastName_x,firstName_x,middleName_x,employeeNum,title,hireDate,matchName,lastName_y,firstName_y,middleName_y,city,state,mailZipCode,licensePrefix,licenseNumber,licenseExpirationDate,licenseStatusDescription
+lastName_x,firstName_x,middleName_x,employeeNum,title,hireDate,matchName,lastName_y,firstName_y,middleName_y,city,st,mailZipCode,licensePrefix,licenseNumber,licenseExpirationDate,licenseStatusDescription
 Gates,Niki,Lynn,522,CRNA,6/19/2018 0:00,GatesNiki,,,,,,,,,,
 Jernigan,Amanda,Rhea,129,CRNA,3/14/2017 0:00,JerniganAmanda,Jernigan,Amanda,Rhea,Nashville,TN,37205,RN,195510.0,03/14/2017 12:00:00 AM,Expired
 Lagrimas,Carl,,775,CRNA,9/27/2019 0:00,LagrimasCarl,,,,,,,,,,

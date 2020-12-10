@@ -1,4 +1,4 @@
-lastName_x,firstName_x,middleName_x,employeeNum,title,hireDate,matchName,lastName_y,firstName_y,middleName_y,city,state,mailZipCode,licensePrefix,licenseNumber,licenseExpirationDate,licenseStatusDescription
+lastName_x,firstName_x,middleName_x,employeeNum,title,hireDate,matchName,lastName_y,firstName_y,middleName_y,city,st,mailZipCode,licensePrefix,licenseNumber,licenseExpirationDate,licenseStatusDescription
 Ackerman,Serena,Maija,97,CRNA,3/16/2009 0:00,AckermanSerena,Ackerman,Serena,Maija,Mount Shasta,CA,96067,RN,181740.0,09/30/2021 12:00:00 AM,Active
 Adams,Chad,R,1049,CRNA,7/2/2018 0:00,AdamsChad,Adams,Chad,A,Longmont,CO,80503,RN,167534.0,09/30/2021 12:00:00 AM,Active
 Ahern,Caitlin,Moira,1260,CRNA,10/23/2020 0:00,AhernCaitlin,Ahern,Caitlin,Moira,Englewood,CO,80112,RN,1622686.0,09/30/2021 12:00:00 AM,Active

@@ -1,81 +1,80 @@
 lastName,firstName,middleName,employeeNum,city,state,mailZipCode,title,hireDate,projectIndicator
-Tobin,David,A,40,winston salem,NC,27103,CRNA,12/27/2016 0:00,1
-Barfield,Benjamin,James,67,Denver,CO,80238,AA,6/5/2013 0:00,1
 Ackerman,Serena,Maija,97,Mount Shasta,CA,96067,CRNA,3/16/2009 0:00,1
-Shank,Claudine,Dale A,107,Colorado Springs,CO,80921,CRNA,7/7/2004 0:00,1
-Sims,John,,112,Little Rock,AR,72210,CRNA,12/13/2016 0:00,1
-Jernigan,Amanda,Rhea,129,Nashville,TN,37205,CRNA,3/14/2017 0:00,1
-Christie,Timothy,Robert,139,Cheyenne,WY,82001,CRNA,12/16/2010 0:00,1
-Brunin,Tara,Suzanne,168,Windsor,CO,80550,CRNA,8/9/2011 0:00,1
-Selby,Amanda,Lucinda,200,Newport,WA,99156,CRNA,10/26/2010 0:00,1
-Wesselink,Darin,Drew,208,Centennial,CO,80112,CRNA,1/13/2020 0:00,1
-Tilbury,Christine,Nicole,213,Lakewood,CO,80222,CRNA,7/6/2010 0:00,1
-Pacione,Nicholas,John,235,Pueblo,CO,81004,CRNA,12/4/2015 0:00,1
-Dunn,Alexander,Joseph,254,Pueblo,CO,81004,CRNA,3/28/2016 0:00,1
-Karpowitz,Bradley,R,280,Fort Collins,CO,80528,CRNA,3/30/2020 0:00,1
-Rodriguez,Noelia,,298,Denver,CO,80206,CRNA,12/1/2020 0:00,1
-Vial,Leslie,Elaine,334,Mobile,AL,36609,CRNA,8/29/2018 0:00,1
-McChristian,Kathleen,Mary,341,Evanston,IL,60201,CRNA,12/5/2017 0:00,1
-Macaulay,Katharine,San,362,Pueblo,CO,81004,CRNA,3/27/1995 0:00,1
-Lam,Bao,Thai,370,Dallas,TX,75254,CRNA,3/2/2018 0:00,1
-Vallier,Jonelle,Lynae,382,Salida,CO,81201,CRNA,1/6/2012 0:00,1
-Parslow,Janelle,Ann Duray,404,Riverside,IL,60546,CRNA,1/8/2008 0:00,1
-Woody,Patricia,McGuire,434,Pueblo,CO,81003,CRNA,1/23/2018 0:00,1
-Mahannah,Wren,Winnicki,435,Aurora,CO,80012,CRNA,1/10/2020 0:00,1
-Engelmann,Amy,Lynne,499,Amarillo,TX,79119,CRNA,10/4/2011 0:00,1
-Rosenblum,Carla,Sue,500,Dillon,CO,80435,CRNA,1/12/2007 0:00,1
-Zimmerman,Philip,Ward,508,Fort Collins,CO,80525,CRNA,10/16/2019 0:00,1
-Carpenter,Leah,Sue,513,Tampa,FL,33621,CRNA,3/30/2007 0:00,1
-Gates,Niki,Lynn,522,Greenwood Village,CO,80111,CRNA,6/19/2018 0:00,1
-Boudreaux,David,Michael,551,New Orleans,LA,70119,CRNA,10/12/2010 0:00,1
-Engstrom,Jaclyn,Marie,591,Denver,CO,80212,CRNA,10/8/2019 0:00,1
-Hermsmeier,Michael,Archie,617,WINDSOR,CO,80550,CRNA,2/16/2011 0:00,1
-McNaughton,Stacey,Ann,619,Fort Collins,CO,80528,CRNA,7/22/2009 0:00,1
-Burgos-Viera,Nelson,,623,Arvada,CO,80004,CRNA,1/24/2017 0:00,1
-Smith,Ryan,David,652,Nixa,MO,65714,AA,2/12/2016 0:00,1
-De Lay,Mary,S,662,Buena Vista,CO,81211,CRNA,3/10/2010 0:00,1
-Racette,Aimee,Marie,663,LAKEWOOD,CO,80228,CRNA,11/18/2003 0:00,1
-Skinner,Zachary,,697,Hendersonville,TN,37075,CRNA,1/23/2020 0:00,1
-Pope,Charles,Jeffrey,714,Erie,CO,80516,CRNA,3/10/2010 0:00,1
-Sherman,Lauren,Roberts,724,Aurora,CO,80016,CRNA,1/25/2012 0:00,1
-Lagrimas,Carl,,775,Spring,TX,77388,CRNA,9/27/2019 0:00,1
-Wright,Henry,Wilson,824,Lone Tree,CO,80124,CRNA,1/9/2007 0:00,1
-Semmes,Michelle,Leigh,839,Portland,OR,97215,CRNA,3/14/2019 0:00,1
-Balyer,Ean,,859,Madison,WI,53703,AA,3/20/2019 0:00,1
-Sauthoff,Andrew,M,877,Westminster,CO,80031,CRNA,2/27/2018 0:00,1
-McKay,Kelly,,887,Palo Alto,CA,94301,CRNA,8/25/2015 0:00,1
-Jones,Michael,Joseph,892,Denver,CO,80219,CRNA,5/20/2020 0:00,1
-Knowles,Phil,Ramsey,895,Loveland,CO,80537,CRNA,6/13/2014 0:00,1
-Oliveti,Joseph,Bruno,897,Dillon,CO,80435,CRNA,10/4/2012 0:00,1
-Lee,Michael,John,904,FORT COLLINS,CO,80525,CRNA,10/7/2013 0:00,1
-Croshal,Andrea,Lynn,906,Pueblo,CO,81005,AA,5/27/2016 0:00,1
-Redelius,Monica,,911,Denver,CO,80238,AA,7/3/2013 0:00,1
-Bramm,Jonathan,David,926,Highlands Ranch,CO,80130,AA,10/21/2013 0:00,1
-Wehrman,Amy,M,929,Greeley,CO,80634,CRNA,3/27/2003 0:00,1
-Romero,Thomas,Andrew,936,Littleton,CO,80128,CRNA,1/17/2017 0:00,1
-Rota,Robert,A,948,Colorado Springs,CO,80908,CRNA,5/8/1995 0:00,1
-Pradka,Anna,,958,Boulder,CO,80304,CRNA,9/29/2017 0:00,1
-Starr,Ann,Warner,969,Royal Oak,MD,21662,CRNA,12/13/2018 0:00,1
-Lester,Candace,,1022,Colorado Springs,CO,80920,AA,5/31/2019 0:00,1
-Thiel,Sara,Kirsten,1039,Denver,CO,80224,CRNA,2/11/2015 0:00,1
-Heringhaus,Nathan,S,1041,Denver,CO,80204,CRNA,4/15/2015 0:00,1
 Adams,Chad,R,1049,Lexington,KY,40514,CRNA,7/2/2018 0:00,1
-Taylor,Andrea,Lyn,1108,Denver,CO,80205,CRNA,4/17/2000 0:00,1
-Miller,Jacob,Matthew,1113,Clear Lake,IA,50428,CRNA,6/18/2018 0:00,1
-Lewis,Barbara,Lynn,1189,Leadville,CO,80461,CRNA,8/3/1995 0:00,1
-Johnson,Laura,Adele,1194,Brule,NE,69127,CRNA,8/7/2019 0:00,1
-Schimmel,Carolyn,Marie,1207,Steamboat Springs,CO,80487,CRNA,12/30/2002 0:00,1
-Wieser,Christopher,Lee,1215,Millbrook,AL,36054,CRNA,5/5/2020 0:00,1
-Tegtmeyer,Katherine,Yvonne,1224,Springfield,OR,97478,CRNA,2/17/2015 0:00,1
-Davignon,Amy,Rebecca,1234,Hickory,NC,28601,CRNA,8/14/2009 0:00,1
-Smith,Audrey,M,1252,Boulder,CO,80301,CRNA,4/15/2004 0:00,1
-Fulton,Dustin,Phillip,1253,Colorado Springs,CO,80906,CRNA,12/4/2020 0:00,2
-Husfeld,Richard,,1254,Frederick,CO,80516,CRNA,11/25/2020 0:00,2
-Smith,Catherine,Vu,1255,Palmetto,FL,34221,CRNA,11/24/2020 0:00,2
-Rodriguez,Noelia,,1256,Denver,CO,80206,CRNA,11/24/2020 0:00,2
-Hemsley,Chase,Tyler,1257,Castle Rock,CO,80109,CRNA,11/24/2020 0:00,2
-Bishop,Trent,M,1258,Durango,CO,81301,CRNA,11/13/2020 0:00,2
-Martic,Ivan,,1259,Colorado Springs,CO,80910,CRNA,10/27/2020 0:00,2
 Ahern,Caitlin,Moira,1260,Englewood,CO,80112,CRNA,10/23/2020 0:00,2
+Balyer,Ean,,859,Madison,WI,53703,AA,3/20/2019 0:00,1
+Barfield,Benjamin,James,67,Denver,CO,80238,AA,6/5/2013 0:00,1
+Bishop,Trent,M,1258,Durango,CO,81301,CRNA,11/13/2020 0:00,2
+Boudreaux,David,Michael,551,New Orleans,LA,70119,CRNA,10/12/2010 0:00,1
+Bramm,Jonathan,David,926,Highlands Ranch,CO,80130,AA,10/21/2013 0:00,1
+Brunin,Tara,Suzanne,168,Windsor,CO,80550,CRNA,8/9/2011 0:00,1
+Burgos-Viera,Nelson,,623,Arvada,CO,80004,CRNA,1/24/2017 0:00,1
+Carpenter,Leah,Sue,513,Tampa,FL,33621,CRNA,3/30/2007 0:00,1
+Christie,Timothy,Robert,139,Cheyenne,WY,82001,CRNA,12/16/2010 0:00,1
 Copelin,Craig,Ernst,1261,Salida,CO,81201,CRNA,10/9/2020 0:00,2
+Croshal,Andrea,Lynn,906,Pueblo,CO,81005,AA,5/27/2016 0:00,1
+Davignon,Amy,Rebecca,1234,Hickory,NC,28601,CRNA,8/14/2009 0:00,1
+De Lay,Mary,S,662,Buena Vista,CO,81211,CRNA,3/10/2010 0:00,1
+Dunn,Alexander,Joseph,254,Pueblo,CO,81004,CRNA,3/28/2016 0:00,1
+Engelmann,Amy,Lynne,499,Amarillo,TX,79119,CRNA,10/4/2011 0:00,1
+Engstrom,Jaclyn,Marie,591,Denver,CO,80212,CRNA,10/8/2019 0:00,1
+Fulton,Dustin,Phillip,1253,Colorado Springs,CO,80906,CRNA,12/4/2020 0:00,2
+Gates,Niki,Lynn,522,Greenwood Village,CO,80111,CRNA,6/19/2018 0:00,1
+Hemsley,Chase,Tyler,1257,Castle Rock,CO,80109,CRNA,11/24/2020 0:00,2
+Heringhaus,Nathan,S,1041,Denver,CO,80204,CRNA,4/15/2015 0:00,1
+Hermsmeier,Michael,Archie,617,WINDSOR,CO,80550,CRNA,2/16/2011 0:00,1
+Husfeld,Richard,,1254,Frederick,CO,80516,CRNA,11/25/2020 0:00,2
+Jernigan,Amanda,Rhea,129,Nashville,TN,37205,CRNA,3/14/2017 0:00,1
+Johnson,Laura,Adele,1194,Brule,NE,69127,CRNA,8/7/2019 0:00,1
+Jones,Michael,Joseph,892,Denver,CO,80219,CRNA,5/20/2020 0:00,1
+Karpowitz,Bradley,R,280,Fort Collins,CO,80528,CRNA,3/30/2020 0:00,1
+Knowles,Phil,Ramsey,895,Loveland,CO,80537,CRNA,6/13/2014 0:00,1
+Lagrimas,Carl,,775,Spring,TX,77388,CRNA,9/27/2019 0:00,1
+Lam,Bao,Thai,370,Dallas,TX,75254,CRNA,3/2/2018 0:00,1
+Lee,Michael,John,904,FORT COLLINS,CO,80525,CRNA,10/7/2013 0:00,1
+Lester,Candace,,1022,Colorado Springs,CO,80920,AA,5/31/2019 0:00,1
+Lewis,Barbara,Lynn,1189,Leadville,CO,80461,CRNA,8/3/1995 0:00,1
+Macaulay,Katharine,San,362,Pueblo,CO,81004,CRNA,3/27/1995 0:00,1
+Mahannah,Wren,Winnicki,435,Aurora,CO,80012,CRNA,1/10/2020 0:00,1
+Martic,Ivan,,1259,Colorado Springs,CO,80910,CRNA,10/27/2020 0:00,2
+McChristian,Kathleen,Mary,341,Evanston,IL,60201,CRNA,12/5/2017 0:00,1
+McKay,Kelly,,887,Palo Alto,CA,94301,CRNA,8/25/2015 0:00,1
+McNaughton,Stacey,Ann,619,Fort Collins,CO,80528,CRNA,7/22/2009 0:00,1
+Miller,Jacob,Matthew,1113,Clear Lake,IA,50428,CRNA,6/18/2018 0:00,1
+Oliveti,Joseph,Bruno,897,Dillon,CO,80435,CRNA,10/4/2012 0:00,1
+Pacione,Nicholas,John,235,Pueblo,CO,81004,CRNA,12/4/2015 0:00,1
+Parslow,Janelle,Ann Duray,404,Riverside,IL,60546,CRNA,1/8/2008 0:00,1
+Pope,Charles,Jeffrey,714,Erie,CO,80516,CRNA,3/10/2010 0:00,1
+Pradka,Anna,,958,Boulder,CO,80304,CRNA,9/29/2017 0:00,1
+Racette,Aimee,Marie,663,LAKEWOOD,CO,80228,CRNA,11/18/2003 0:00,1
+Redelius,Monica,,911,Denver,CO,80238,AA,7/3/2013 0:00,1
+Rodriguez,Noelia,,298,Denver,CO,80206,CRNA,12/1/2020 0:00,1
+Romero,Thomas,Andrew,936,Littleton,CO,80128,CRNA,1/17/2017 0:00,1
+Rosenblum,Carla,Sue,500,Dillon,CO,80435,CRNA,1/12/2007 0:00,1
+Rota,Robert,A,948,Colorado Springs,CO,80908,CRNA,5/8/1995 0:00,1
+Sauthoff,Andrew,M,877,Westminster,CO,80031,CRNA,2/27/2018 0:00,1
+Schimmel,Carolyn,Marie,1207,Steamboat Springs,CO,80487,CRNA,12/30/2002 0:00,1
+Selby,Amanda,Lucinda,200,Newport,WA,99156,CRNA,10/26/2010 0:00,1
+Semmes,Michelle,Leigh,839,Portland,OR,97215,CRNA,3/14/2019 0:00,1
+Shank,Claudine,Dale A,107,Colorado Springs,CO,80921,CRNA,7/7/2004 0:00,1
+Sherman,Lauren,Roberts,724,Aurora,CO,80016,CRNA,1/25/2012 0:00,1
+Sims,John,,112,Little Rock,AR,72210,CRNA,12/13/2016 0:00,1
+Skinner,Zachary,,697,Hendersonville,TN,37075,CRNA,1/23/2020 0:00,1
+Smith,Ryan,David,652,Nixa,MO,65714,AA,2/12/2016 0:00,1
+Smith,Audrey,M,1252,Boulder,CO,80301,CRNA,4/15/2004 0:00,1
+Smith,Catherine,Vu,1255,Palmetto,FL,34221,CRNA,11/24/2020 0:00,2
+Starr,Ann,Warner,969,Royal Oak,MD,21662,CRNA,12/13/2018 0:00,1
+Taylor,Andrea,Lyn,1108,Denver,CO,80205,CRNA,4/17/2000 0:00,1
+Tegtmeyer,Katherine,Yvonne,1224,Springfield,OR,97478,CRNA,2/17/2015 0:00,1
+Thiel,Sara,Kirsten,1039,Denver,CO,80224,CRNA,2/11/2015 0:00,1
+Tilbury,Christine,Nicole,213,Lakewood,CO,80222,CRNA,7/6/2010 0:00,1
+Tobin,David,A,40,winston salem,NC,27103,CRNA,12/27/2016 0:00,1
+Vallier,Jonelle,Lynae,382,Salida,CO,81201,CRNA,1/6/2012 0:00,1
+Vial,Leslie,Elaine,334,Mobile,AL,36609,CRNA,8/29/2018 0:00,1
 Wallace,Rachel,Renee,1262,Dolores,CO,81323,CRNA,10/1/2020 0:00,2
+Wehrman,Amy,M,929,Greeley,CO,80634,CRNA,3/27/2003 0:00,1
+Wesselink,Darin,Drew,208,Centennial,CO,80112,CRNA,1/13/2020 0:00,1
+Wieser,Christopher,Lee,1215,Millbrook,AL,36054,CRNA,5/5/2020 0:00,1
+Woody,Patricia,McGuire,434,Pueblo,CO,81003,CRNA,1/23/2018 0:00,1
+Wright,Henry,Wilson,824,Lone Tree,CO,80124,CRNA,1/9/2007 0:00,1
+Zimmerman,Philip,Ward,508,Fort Collins,CO,80525,CRNA,10/16/2019 0:00,1
