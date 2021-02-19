@@ -6,7 +6,7 @@ Built an advanced practice nurse (APN) credentialling management process using P
 * []()Transformed the data so that it could be loaded into a relational or non-relational database. The transformation included cleaning, joining, filtering, aggregating and other actions. 
 * []()Designed the database using an entity relationship diagram (ERD) methodology
 * []()Placed the final tables into a project database
-* []()Built an exception management reporting process making it easy to identify non-compliant clinician license issue for action
+* []()Built an exception management reporting process making it easy to identify non-compliant clinician license issues for action.
 
 ## See Relevant Documents Here
 A project PowerPoint summary contains key screen shots of the work completed in Jupyter Notebook and PG Admin. This PowerPoint is located at: [https:// https://github.com/rodgerskent/etl-project/blob/main/Rodgers_Pitchbook_ETLProject.pptx /](https:// https://github.com/rodgerskent/etl-project/blob/main/Rodgers_Pitchbook_ETLProject.pptx)
