@@ -18,6 +18,6 @@ The following key insights were brought to life in the assessment.
 * []()An API centric application to provide regular updates to healthcare credentialling professionals is not costly to create or maintain. 
 
 ## Reference Items & Datasource
-The licensing data utilized for the project is located at: [https://data.colorado.gov/Regulations/Professional-and-Occupational-Licenses-in-Colorado/7s5z-vewr](https:// data.colorado.gov/Regulations/Professional-and-Occupational-Licenses-in-Colorado/7s5z-vewr)
+The licensing data utilized for the project is located at: [https://data.colorado.gov/Regulations/Professional-and-Occupational-Licenses-in-Colorado/7s5z-vewr]
 
-The Colorado Association of Nurse Anesthetist website is located at: [https://coana.org/index.php)]
+The Colorado Association of Nurse Anesthetist website is located at: [https://coana.org/index.php]
