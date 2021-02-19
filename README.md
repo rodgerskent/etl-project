@@ -14,7 +14,7 @@ A project PowerPoint summary contains key screen shots of the work completed in 
 ## Key Insights
 The following key insights were brought to life in the assessment.
 * []()There are 1252 active non-physician anesthesia clinicians and 196,991 registered nurses licensed in Colorado 
-* []()DORA does not track “compact” (out-of-state)licenses in their Professional & Occupational License dataset which result in non-compliant advanced practitioners to show as compliant when they are deficient. Employers must directly ensure compact license compliance.  
+* []()DORA does not track “compact” (out-of-state registered nurse) licenses in their Professional & Occupational License dataset which result in non-compliant advanced practitioners to show as compliant when they are deficient. Employers must directly ensure compact license compliance.  
 * []()An API centric application to provide regular updates to healthcare credentialling professionals is not costly to create or maintain. 
 
 ## Reference Items & Datasource
