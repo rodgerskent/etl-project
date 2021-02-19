@@ -9,7 +9,7 @@ Built an advanced practice nurse (APN) credentialling management process using P
 * []()Built an exception management reporting process making it easy to identify non-compliant clinician license issues for action.
 
 ## See Relevant Documents Here
-A project PowerPoint summary contains key screen shots of the work completed in Jupyter Notebook and PG Admin. This PowerPoint is located at: [https://github.com/rodgerskent/etl-project/blob/main/Rodgers_Pitchbook_ETLProject.pptx /]
+A project PowerPoint summary contains key screen shots of the work completed in Jupyter Notebook and PG Admin. This PowerPoint is located at: [https://github.com/rodgerskent/etl-project/blob/main/Rodgers_Pitchbook_ETLProject.pptx]
 
 ## Key Insights
 The following key insights were brought to life in the assessment.
