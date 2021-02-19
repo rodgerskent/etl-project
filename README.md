@@ -1,8 +1,9 @@
 ## Extract, Transform & Load to SQL Project 
 Built an advanced practice nurse (APN) credentialling management process using Python, SQL, SQL Alchemy, PG Admin and the Professional & Occupational License dataset published daily by the Colorado Department of Regulatory Agencies (DORA). Key analyst actions included:
-* []()Extract a 1.2 million row professional license file published by DORA daily
+* []()Extract a 1.2 million row professional license file published by DORA daily.
 * []()Built a fictitious employee roster representative of an anesthesia practice or health system employing anesthesia clinicians.
-* []()Transformed the data so that it only included registered nurses and advanced practice nurses. And, so that it could be loaded into a relational or non-relational database. The transformation to include cleaning, joining, filtering, aggregating and other actions. 
+* []()Filtered the data so that it only included registered nurses and advanced practice nurses. 
+* []()Transformed the data so that it could be loaded into a relational or non-relational database. The transformation to include cleaning, joining, filtering, aggregating and other actions. 
 * []()Designed the database using an entity relationship diagram (ERD) methodology
 * []()Placed the final tables into a project database
 * []()Built an exception management reporting process making it easy to identify non-compliant clinician license issue for action
