@@ -1,4 +1,5 @@
-## Extract, Transform & Load to SQL Project 
+## Nurse Credential Management Process
+## Highlights Extract, Transform & Load to SQL Skill Set
 Built an advanced practice nurse (APN) credentialling management process using Python, SQL, SQL Alchemy, PG Admin and the Professional & Occupational License dataset published daily by the Colorado Department of Regulatory Agencies (DORA). Key analyst actions included:
 * []()Extract a 1.2 million row professional license file published by DORA daily.
 * []()Built a fictitious employee roster representative of an anesthesia practice or health system employing anesthesia clinicians.
