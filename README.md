@@ -9,7 +9,7 @@ Built an advanced practice nurse (APN) credentialling management process using P
 * []()Placed the final tables into a project database
 * []()Built an exception management reporting process making it easy to identify non-compliant clinician license issues for action.
 
-![Overview](https://github.com/rodgerskent/us-hospital-profitability/blob/main/overviewimage.jpg?raw=true)
+![Step Examples](https://github.com/rodgerskent/nurse-credential-management/blob/main/sqlprojectimages.jpg?raw=true)
 
 ## See Relevant Documents Here
 A presentation containing key screen shots of the behind the scenes work completed in Jupyter Notebook and PG Admin is located at: [https://github.com/rodgerskent/etl-project/blob/main/rodgersETLpresentation.pdf]
